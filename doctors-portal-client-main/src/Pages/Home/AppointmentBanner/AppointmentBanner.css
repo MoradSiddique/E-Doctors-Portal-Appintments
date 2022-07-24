@@ -1,0 +1,33 @@
+.appointment {
+    margin: 100px 0;
+    background-image: linear-gradient(rgba(37, 37, 82, 0.815), rgba(35, 35, 71, 0.849)), var(--img);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+}
+
+.appointment_img {
+    margin-top: -110px;
+}
+
+.appointment_content {
+    color: #ffffff;
+    padding: 55px 0;
+}
+
+.appointment_content h4 {
+    color: aqua;
+}
+
+.appointment_content h1 {
+    margin: 20px 0;
+}
+
+
+.appointment_content button {
+    background-color: #1b1464;
+    border: none;
+    color: white;
+    padding: 10px 40px;
+    margin-top: 5px;
+}

@@ -1,0 +1,22 @@
+.react-calendar__navigation__label {
+    background-color: #5454c5 !important;
+    color: white;
+}
+
+.react-calendar {
+    width: 100%;
+    border-radius: 10px !important;
+    max-width: 100% !important;
+    background: white;
+    border: 1px solid #a0a096;
+    padding: 10px;
+    line-height: 1.125em;
+}
+
+[type=button]:not(:disabled),
+[type=reset]:not(:disabled),
+[type=submit]:not(:disabled),
+button:not(:disabled) {
+    cursor: pointer;
+    border-radius: 50px;
+}

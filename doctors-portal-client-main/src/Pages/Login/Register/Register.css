@@ -1,0 +1,31 @@
+.login {
+    padding: 80px;
+}
+
+.login_form {
+    -webkit-box-shadow: -1px 2px 8px -1px rgba(0, 0, 0, 0.58);
+    -moz-box-shadow: -1px 2px 8px -1px rgba(0, 0, 0, 0.58);
+    box-shadow: -1px 2px 8px -1px rgba(0, 0, 0, 0.58);
+    padding: 80px 60px;
+    border-radius: 10px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.google_btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    border-radius: 100px !important;
+    background-color: white;
+    color: black;
+    border: 1px solid gray;
+}
+
+.google_btn img {
+    display: inline;
+    height: 30px;
+}
